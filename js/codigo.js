@@ -8,6 +8,6 @@ let miNombre = prompt("Introduce tu nombre");
     alert("Bienvenido de nuevo, Pepito Grillo... y no veas lo contento que estoy de que este código salga aceptable.");
   } else {
     alert ("Sí, te conozco, eres " + miNombre + "... pero no eres nuestro amiguete del alma.");
-       window.alert(texto);
     }
 // texto = "Sí, te conozco, eres " + miNombre + ".";
+//window.alert(texto);
